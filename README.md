@@ -18,7 +18,7 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ## 🚀 CI/CD
 
-- [CI/CD Pipeline with Jenkins, Docker & Monitoring](https://github.com/user/ci-cd-react-ecommerce) – Jenkins-based pipeline for React app, Docker deployment, Prometheus/Grafana monitoring.
+- [CI/CD Pipeline with Jenkins, Docker & Monitoring](https://github.com/ranjithdb/reactappone) – Jenkins-based pipeline for React app, Docker deployment, Prometheus/Grafana monitoring.
 
 ---
 
