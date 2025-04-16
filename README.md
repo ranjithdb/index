@@ -34,7 +34,7 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ---
 
-## ☘️ Kubernetes
+## Kubernetes
 
 - [nginx-deploy](https://github.com/user/k8s-nginx-deploy-browser) – Deploy and expose Nginx app in Kubernetes, access it from browser.
 - [nginx-deploy-yaml](https://github.com/user/k8s-nginx-deploy-yaml) – Deploy Nginx app in Kubernetes using YAML files.
@@ -42,7 +42,7 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ---
 
-## ⚙️ Ansible
+## ⚙ Ansible
 
 - [inventory-adhoc](https://github.com/user/ansible-inventory-adhoc) – Setup inventory and run ad-hoc Ansible commands on remote Linux machines.
 - [nginx-setup](https://github.com/user/ansible-nginx-setup) – Use playbooks to install and configure Nginx.
