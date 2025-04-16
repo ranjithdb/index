@@ -34,7 +34,7 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ---
 
-## Kubernetes
+## 🐙 Kubernetes
 
 - [nginx-deploy](https://github.com/user/k8s-nginx-deploy-browser) – Deploy and expose Nginx app in Kubernetes, access it from browser.
 - [nginx-deploy-yaml](https://github.com/user/k8s-nginx-deploy-yaml) – Deploy Nginx app in Kubernetes using YAML files.
