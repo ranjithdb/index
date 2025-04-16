@@ -4,15 +4,15 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ## 📂 Categories
 
-- [CI/CD](#cicd)
-- [Bash Scripting](#bash-scripting)
-- [Docker](#docker)
-- [Kubernetes](#kubernetes)
-- [Ansible](#ansible)
-- [AWS (NextWork)](#aws-nextwork)
-- [GitHub Actions](#github-actions)
-- [GitHub Interactive Courses](#github-interactive-courses)
-- [Open Source Contributions](#open-source-contributions)
+- [CI/CD](#-cicd)
+- [Bash Scripting](#-bash-scripting)
+- [Docker](#-docker)
+- [Kubernetes](#-kubernetes)
+- [Ansible](#-ansible)
+- [AWS (NextWork)](#-aws-nextwork)
+- [GitHub Actions](#-github-actions)
+- [GitHub Interactive Courses](#-github-interactive-courses)
+- [Open Source Contributions](#-open-source-contributions)
 
 ---
 
