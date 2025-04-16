@@ -22,7 +22,7 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ---
 
-## 🐚 Bash Scripting
+## 🛠 Bash Scripting
 
 - [30daysofbash](https://github.com/user/30daysofbash) – 30 days of Bash scripting challenges. Covers system monitoring, networking, file management, automation, and more.
 
