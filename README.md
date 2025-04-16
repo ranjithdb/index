@@ -24,13 +24,13 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ## 🛠 Bash Scripting
 
-- [30daysofbash](https://github.com/user/30daysofbash) – 30 days of Bash scripting challenges. Covers system monitoring, networking, file management, automation, and more.
+- [30daysofbash](https://github.com/ranjithdb/30daysofbash) – 30 days of Bash scripting challenges. Covers system monitoring, networking, file management, automation, and more.
 
 ---
 
 ## 🐳 Docker
 
-- [MySQL with phpMyAdmin using Docker Compose](https://github.com/user/mysql-phpmyadmin-docker) – MySQL + phpMyAdmin setup with Docker Compose, initialized with custom SQL scripts.
+- [MySQL with phpMyAdmin using Docker Compose](https://github.com/ranjithdb/docker-mysql-phpmyadmin) – MySQL + phpMyAdmin setup with Docker Compose, initialized with custom SQL scripts.
 
 ---
 
@@ -106,25 +106,30 @@ Projects focusing on AWS storage solutions.
 
 Courses from [GitHub Skills](https://skills.github.com/):
 
-- [Introduction to GitHub](https://github.com/user/introduction-to-github)
-- [Communicate using Markdown](https://github.com/user/communicate-using-markdown)
-- [GitHub Pages](https://github.com/user/github-pages)
-- [Review pull requests](https://github.com/user/review-pull-requests)
-- [Resolve merge conflicts](https://github.com/user/resolve-merge-conflicts)
-- [Release-based workflow](https://github.com/user/release-based-workflow)
-- [Connect the dots](https://github.com/user/connect-the-dots)
-- [Code with Codespaces](https://github.com/user/code-with-codespaces)
-- [Getting Started with GitHub Copilot](https://github.com/user/getting-started-with-copilot)
-- [Automate workflows with GitHub Actions](https://github.com/user/automate-workflows)
-- [Hello GitHub Actions](https://github.com/user/hello-github-actions)
-- [Test with Actions](https://github.com/user/test-with-actions)
-- [Publish packages](https://github.com/user/publish-packages)
-- [Write JavaScript actions](https://github.com/user/write-js-actions)
-- [Reusable workflows](https://github.com/user/reusable-workflows)
-- [Secure your repository supply chain](https://github.com/user/secure-supply-chain)
-- [Introduction to CodeQL](https://github.com/user/introduction-to-codeql)
-- [Change commit history](https://github.com/user/change-commit-history)
-- [Introduction to secret scanning](https://github.com/user/introduction-to-secret-scanning)
+- [Introduction to GitHub](https://github.com/ranjithdb/skills-introduction-to-github)
+- [Communicate using Markdown](https://github.com/ranjithdb/skills-communicate-using-markdown)
+- [GitHub Pages](https://github.com/ranjithdb/skills-github-pages)
+- [Review pull requests](https://github.com/ranjithdb/skills-review-pull-requests)
+- [Resolve merge conflicts](https://github.com/ranjithdb/skills-resolve-merge-conflicts)
+- [Release-based workflow](https://github.com/ranjithdb/skills-release-based-workflow)
+- [Connect the dots](https://github.com/ranjithdb/skills-connect-the-dots)
+- [Code with Codespaces](https://github.com/ranjithdb/skills-code-with-codespaces)
+- [Getting Started with GitHub Copilot](https://github.com/ranjithdb/skills-copilot-codespaces-vscode)
+
+#### Automate workflows with GitHub Actions
+  
+- [Hello GitHub Actions](https://github.com/ranjithdb/skills-hello-github-actions)
+- [Test with Actions](https://github.com/ranjithdb/skills-test-with-actions)
+- [Publish packages](https://github.com/ranjithdb/skills-publish-packages)
+- [Write JavaScript actions](https://github.com/ranjithdb/skills-write-javascript-actions)
+- [Reusable workflows](https://github.com/ranjithdb/skills-reusable-workflows)
+
+#### Code security and analysis
+
+- [Secure your repository supply chain](https://github.com/ranjithdb/skills-secure-repository-supply-chain)
+- [Introduction to CodeQL](https://github.com/ranjithdb/skills-introduction-to-codeql)
+- [Change commit history](https://github.com/ranjithdb/skills-change-commit-history)
+- [Introduction to secret scanning](https://github.com/ranjithdb/skills-introduction-to-secret-scanning)
 
 [🔝 Back to top](#-categories)
 
