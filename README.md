@@ -36,19 +36,19 @@ Hey there! 👋 Dive into my GitHub world — this repository gives you a catego
 
 ## 🐙 Kubernetes
 
-- [nginx-deploy](https://github.com/user/k8s-nginx-deploy-browser) – Deploy and expose Nginx app in Kubernetes, access it from browser.
-- [nginx-deploy-yaml](https://github.com/user/k8s-nginx-deploy-yaml) – Deploy Nginx app in Kubernetes using YAML files.
-- [scale-update](https://github.com/user/k8s-scale-update) – Demonstrates scaling and updating applications in Kubernetes.
+- [nginx-deploy](https://github.com/ranjithdb/k8s-01) – Deploy and expose Nginx app in Kubernetes, access it from browser.
+- [nginx-deploy-yaml](https://github.com/ranjithdb/k8s-02) – Deploy Nginx app in Kubernetes using YAML files.
+- [scale-update](https://github.com/ranjithdb/k8s-03) – Demonstrates scaling and updating applications in Kubernetes.
 
 ---
 
 ## ⚙ Ansible
 
-- [inventory-adhoc](https://github.com/user/ansible-inventory-adhoc) – Setup inventory and run ad-hoc Ansible commands on remote Linux machines.
-- [nginx-setup](https://github.com/user/ansible-nginx-setup) – Use playbooks to install and configure Nginx.
-- [users-files](https://github.com/user/ansible-users-files) – Manage users, directories, and files using Ansible.
-- [docker-nginx](https://github.com/user/ansible-docker-nginx) – Install Docker and deploy Nginx using Ansible playbooks.
-- [monitoring-prometheus](https://github.com/user/ansible-monitoring-prometheus) – Infrastructure monitoring with Prometheus, Grafana, and Node Exporter.
+- [inventory-adhoc](https://github.com/ranjithdb/ansible-01) – Setup inventory and run ad-hoc Ansible commands on remote Linux machines.
+- [nginx-setup](https://github.com/ranjithdb/ansible-02) – Use playbooks to install and configure Nginx.
+- [users-files](https://github.com/ranjithdb/ansible-03) – Manage users, directories, and files using Ansible.
+- [docker-nginx](https://github.com/ranjithdb/ansible-04) – Install Docker and deploy Nginx using Ansible playbooks.
+- [monitoring-prometheus](https://github.com/ranjithdb/ansible-05) – Infrastructure monitoring with Prometheus, Grafana, and Node Exporter.
 
 ---
 
