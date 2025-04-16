@@ -86,17 +86,17 @@ Projects focusing on AWS storage solutions.
 
 ## 🧲 GitHub Actions
 
-- [To-Do List CLI with GitHub Actions](https://github.com/user/gh-actions-java-02) – Java-based CLI app with Gradle. GitHub Actions builds and publishes JAR on tag.
-- [HTTP Status Code Checker with GitHub Actions](https://github.com/user/gh-actions-java-01) – Java CLI tool to check HTTP status codes, built with Maven.
-- [Node.js CI](https://github.com/user/gh-actions-nodejs-01) – Node.js Express app with Jest and Supertest, tested across multiple Node versions.
-- [URL Shortener with GitHub Actions](https://github.com/user/gh-actions-nodejs-02) – Node.js/Express URL shortener storing data in JSON.
-- [Installing Python Dependencies](https://github.com/user/gh-actions-python-01) – Workflow that installs Python packages from requirements.txt.
-- [Python Joke App with GitHub Actions](https://github.com/user/gh-actions-python-02) – Automates testing and linting of a joke-fetching Python API app.
-- [API Response Validator](https://github.com/user/gh-actions-python-03) – Validates API responses, tested with pytest and Ruff.
-- [Flask API App with Tox](https://github.com/user/gh-actions-python-04) – Flask app tested across Python versions using tox.
-- [Web Scraper Validator](https://github.com/user/gh-actions-python-05) – Scrapes webpage titles, tests with unittest, multi-version CI with GitHub Actions.
-- [Running a Docker Container](https://github.com/user/gh-actions-docker-01) – Demonstrates using Docker containers in a GitHub Actions workflow.
-- [Dockerized Nginx with GitHub Actions](https://github.com/user/gh-actions-docker-02) – CI/CD pipeline for Nginx Docker image deployment.
+- [To-Do List CLI with GitHub Actions](https://github.com/ranjithdb/gh-actions-java-02) – Java-based CLI app with Gradle. GitHub Actions builds and publishes JAR on tag.
+- [HTTP Status Code Checker with GitHub Actions](https://github.com/ranjithdb/gh-actions-java-01) – Java CLI tool to check HTTP status codes, built with Maven.
+- [Node.js CI](https://github.com/ranjithdb/gh-actions-nodejs-01) – Node.js Express app with Jest and Supertest, tested across multiple Node versions.
+- [URL Shortener with GitHub Actions](https://github.com/ranjithdb/gh-actions-nodejs-02) – Node.js/Express URL shortener storing data in JSON.
+- [Installing Python Dependencies](https://github.com/ranjithdb/gh-actions-python-01) – Workflow that installs Python packages from requirements.txt.
+- [Python Joke App with GitHub Actions](https://github.com/ranjithdb/gh-actions-python-02) – Automates testing and linting of a joke-fetching Python API app.
+- [API Response Validator](https://github.com/ranjithdb/gh-actions-python-03) – Validates API responses, tested with pytest and Ruff.
+- [Flask API App with Tox](https://github.com/ranjithdb/gh-actions-python-04) – Flask app tested across Python versions using tox.
+- [Web Scraper Validator](https://github.com/ranjithdb/gh-actions-python-05) – Scrapes webpage titles, tests with unittest, multi-version CI with GitHub Actions.
+- [Running a Docker Container](https://github.com/ranjithdb/gh-actions-docker-01) – Demonstrates using Docker containers in a GitHub Actions workflow.
+- [Dockerized Nginx with GitHub Actions](https://github.com/ranjithdb/gh-actions-docker-02) – CI/CD pipeline for Nginx Docker image deployment.
 
 [🔝 Back to top](#-categories)
 
